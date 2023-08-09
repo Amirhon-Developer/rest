@@ -1,0 +1,193 @@
+*{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+}
+.container{
+width: 80%;
+margin: 0 auto;
+}
+nav {
+border-bottom: 2px solid  grey;
+height: 10vh;
+width: 100%;
+}
+.nav{
+  padding: 18px 0 ;
+display: flex;
+justify-content: space-between;
+}
+.verh{
+padding: 0 70px;
+}
+.menu{
+display: flex;
+  margin-right: 15%;
+font-size: 14px;
+gap: 35px;
+}
+.img{
+margin-top: 70px;
+}
+.text{
+  padding: 0 40px;
+}
+.text h1{
+color: gray;
+font-size: 18px;
+margin-bottom: 20PX;
+}
+.text h2{
+font-size: 40px;
+}
+.cards-container1{
+  width: 80%;
+  margin: auto;
+display: flex;
+gap: 40px;
+margin-top: 70px;
+}
+.card-text h1{
+font-size: 20px;
+color: grey;
+
+}
+.card-text h2{
+font-size: 30px;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+}
+.card-container2{
+  width: 80%;
+  margin: auto;
+display: flex;
+gap: 40px;
+margin-top: 70px;
+border-bottom: 1px solid grey;
+}
+.cartochki-container{
+  width: 85%;
+  margin: auto;
+display: flex;
+gap: 40px;
+margin-top: 70px;
+
+}
+.cards h1{
+font-size: 19px;
+color: grey;
+
+}
+.cards h2{
+  font-size: 29px;
+  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+
+  }
+  .btn button{
+    padding: 10px 30px;
+   margin-left: 45%;
+   margin-top: 40px;
+
+}
+  .risunok-container2{
+    width: 85%;
+  display: flex;
+  gap: 40px;
+  padding-top:7% ;
+  border-bottom: 1px solid;
+  margin: 0 auto;
+  }
+
+  .section-container{
+    width: 78%;
+    margin: 0 auto;
+  display: flex;
+  margin-top: 70px;
+  gap: 40px;
+  }
+  .fotki{
+  margin-top: 70px;
+  }
+  .fotki h1{
+  font-size: 17px;
+  color: grey;
+  }
+  .fotki h3{
+  font-size: 20px;
+  }
+  .sectionn-container{
+  width: 78%;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 70px;
+  gap: 40px;
+  }
+  .fotki2{
+   margin-top: 70px;
+   }
+  .fotki2 h1{
+  font-size: 17px;
+  color: grey;
+  }
+  .fotki2 h3{
+  font-size: 20px;
+  }
+footer{
+  background-color: #000;
+}
+  .it-park{
+  display: flex;
+  gap: 50px;
+  }
+  .it-park h1{
+  font-size: 30px;
+  padding: 25px 40px;
+  }
+  .it-park p{
+  color: gray;
+  padding: 30px 50px;
+
+  }
+  .futor{
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer{
+  color: white;
+  }
+  .futor1{
+  color: white;
+  line-height: 30px;
+  }
+  .futor2{
+    color: white;
+    line-height: 30px;
+    padding-left: 30%;
+  }
+ .futor3{
+  color: white;
+  line-height: 30px;
+  padding-left: 30%;
+
+ }
+.input {
+  margin-top: 10px;
+  margin-left: 10px;
+display: flex;
+height: 48px;
+}
+ .input input {
+  outline: none;
+  border:none;
+padding: 10px;
+
+}
+
+.input button {
+background-color: black;
+color: white;
+padding: 10px;
+}
